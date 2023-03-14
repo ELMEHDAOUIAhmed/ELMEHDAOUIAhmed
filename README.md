@@ -36,7 +36,6 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
           
 ### 🧰 Languages and Tools:
 

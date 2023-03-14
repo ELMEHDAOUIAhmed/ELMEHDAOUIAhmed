@@ -57,7 +57,7 @@
 <img align="left" alt="Firebase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 
 
----
+
 
 # Guess the Number
 

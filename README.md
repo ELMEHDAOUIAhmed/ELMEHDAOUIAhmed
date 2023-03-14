@@ -45,11 +45,11 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Oracle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
           
 <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
           
-        
+
           
 
           

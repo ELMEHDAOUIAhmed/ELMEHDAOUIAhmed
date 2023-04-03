@@ -12,12 +12,12 @@
 # I'm a Computer scientist ,Junior Web Developer, a Future Software Engineer !!
 ---
 
-<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
+<!-- - 👯 I’m looking to collaborate with other content creators -->
+- 🥅 2023 Goals: Finish my START-UP Projet and learn Flutter along the way
+- ⚡ Fun fact: I love to draw but unfortunately i'm bad atit
+<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
 <!-- ### Connect with me:
 
@@ -43,84 +43,30 @@
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="PHP" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="PHP" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-
-<img align="left" alt="Flutter" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-
-<img align="left" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Oracle" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-
+<img align="left" alt="Flutter" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Firebase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
 
 
-
-## How to Play
+<!-- ## How to Play
 
 1. The computer will randomly select a number between 1 and 100.
 2. You have to guess the number.
 3. If your guess is too high, the computer will tell you to guess lower.
 4. If your guess is too low, the computer will tell you to guess higher.
-5. Keep guessing until you guess the correct number.
+5. Keep guessing until you guess the correct number. -->
 
 
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Guess the Number</title>
-<meta charset="utf-8">
-</head>
-<body>
-    <h1>Guess the Number</h1>
-    <p>The computer will randomly select a number between 1 and 100. You have to guess the number. If your guess is too high, the computer will tell you to guess lower. If your guess is too low, the computer will tell you to guess higher. Keep guessing until you guess the correct number.</p>
-    <p id="result"></p>
-    <input type="number" id="guess" placeholder="Enter your guess...">
-    <button onclick="checkGuess()">Guess</button>
-    <button onclick="reset()">Reset</button>
 
-<script>
-      // Generate random number
-      var randomNumber = Math.floor(Math.random() * 100) + 1;
-      console.log(randomNumber);
-
-      // Initialize number of guesses
-      var numGuesses = 0;
-
-      function checkGuess() {
-        var guess = parseInt(document.getElementById('guess').value);
-        var result = document.getElementById('result');
-
-        if (guess < 1 || guess > 100) {
-          result.innerHTML = "Please enter a number between 1 and 100.";
-        } else if (guess === randomNumber) {
-          numGuesses++;
-          result.innerHTML = "Congratulations! You guessed the number in " + numGuesses + " tries.";
-        } else if (guess > randomNumber) {
-          numGuesses++;
-          result.innerHTML = "Too high! Guess lower.";
-        } else if (guess < randomNumber) {
-          numGuesses++;
-          result.innerHTML = "Too low! Guess higher.";
-        }
-      }
-
-      function reset() {
-        randomNumber = Math.floor(Math.random() * 100) + 1;
-        console.log(randomNumber);
-        numGuesses = 0;
-        document.getElementById('result').innerHTML = "";
-        document.getElementById('guess').value = "";
-      }
-</script>
-</body>
-</html>
 
 
 <!-- 

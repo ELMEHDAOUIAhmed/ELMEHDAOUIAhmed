@@ -15,7 +15,7 @@
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Finish my START-UP Projet and learn Flutter along the way
-- ⚡ Fun fact: I love to draw but unfortunately i'm bad atit
+- ⚡ Fun fact: I love to draw but unfortunately i'm bad at it
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 

@@ -9,7 +9,7 @@
 
 
 
-# I'm a Computer scientist ,Junior Web Developer, & Future Software Engineer !!
+# I'm a Computer scientist ,Mobile & Web Developer, & Future Software Engineer !!
 ---
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->

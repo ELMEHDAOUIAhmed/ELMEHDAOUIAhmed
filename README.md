@@ -57,12 +57,6 @@
 5. Keep guessing until you guess the correct number. -->
 
 
-
-
-
-
-
-
 <!-- 
 <details>
   <summary>:zap: GitHub Stats</summary>

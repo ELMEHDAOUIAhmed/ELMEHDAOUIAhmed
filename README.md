@@ -36,9 +36,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 
-
-
-          
+    
 ### 🧰 Languages and Tools:
 
 - Throughout the years, I have become experienced in using a variety of languages and tools. Here are some of them.

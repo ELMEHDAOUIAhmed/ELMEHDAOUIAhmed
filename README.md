@@ -48,14 +48,6 @@
 <img align="left" alt="Firebase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
-<!-- ## How to Play
-
-1. The computer will randomly select a number between 1 and 100.
-2. You have to guess the number.
-3. If your guess is too high, the computer will tell you to guess lower.
-4. If your guess is too low, the computer will tell you to guess higher.
-5. Keep guessing until you guess the correct number. -->
-
 
 <!-- 
 <details>

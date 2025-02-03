@@ -1,15 +1,12 @@
 # Hi there, I'm ELMEHDAOUI Ahmed zine el abdine - aka [AhmedZin]👋 
 
 
-# I'm a Software Engineer,Mobile & Web Developer, & Software Engineer !!
+# I'm a Software Engineer,Mobile & Web Developer !!
 ---
 
-<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2025 Goals: ....
+- 🌱 I’m currently learning Go 🤣
+- 🥅 2025 Goals: Build a mDL app and learning the ropes Throughout this amazing experience
 - ⚡ Fun fact: I love to draw but unfortunately i'm bad at it
-<!-- - 👯 I’m looking to collaborate with other content creators -->
-<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
 
 
@@ -17,7 +14,6 @@
 ### 🧰 Languages and Tools:
 
 - Throughout the years, I have become experienced in using a variety of languages and tools. Here are some of them.
-<!-- - Although I am currently using a NoSQL database for a mobile app that requires real-time data, I must admit that I am not particularly fond of them. This is primarily because I spent over three years focused on advancing my skills in SQL databases, and I know that NoSQL can be very challenging to manage in large projects. As a result, I chose not to invest time in learning it. However, the need for real-time data in my current project led me to incorporate it. -->
 
 
 <img align="left" alt="GoLANG" width="36px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" style="padding-right:10px;" />

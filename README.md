@@ -20,7 +20,7 @@
 <!-- - Although I am currently using a NoSQL database for a mobile app that requires real-time data, I must admit that I am not particularly fond of them. This is primarily because I spent over three years focused on advancing my skills in SQL databases, and I know that NoSQL can be very challenging to manage in large projects. As a result, I chose not to invest time in learning it. However, the need for real-time data in my current project led me to incorporate it. -->
 
 
-<img align="left" alt="GoLANG" width="36px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" style="padding-right:10px;" />
+<img align="left" alt="GoLANG" width="36px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" style="padding-right:0px;" />
 <img align="left" alt="Flutter" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Oracle" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>

@@ -4,7 +4,7 @@
 # I'm a Software Engineer,Mobile & Web Developer !!
 ---
 
-- 🌱 I’m currently learning Go 🤣
+- 🌱 I’m currently learning Go
 - 🥅 2025 Goals: Build a mDL app and learning the ropes Throughout this amazing experience
 - ⚡ Fun fact: I love to draw but unfortunately i'm bad at it
 

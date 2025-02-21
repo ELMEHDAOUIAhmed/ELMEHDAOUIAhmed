@@ -17,7 +17,7 @@
 
 I'm a passionate software engineer with a knack for building scalable, high-performance applications. My journey in tech spans mobile development, web engineering, and a deep fascination for IoT innovations. I'm always on the lookout for new challenges and learning opportunities.
 
-- **Currently Learning:** Go.
+- **Currently Learning:** Go & ISO/IEC 18013-5 using AWS Private CA and AWS KMS
 - **2025 Goals:** Develop an mDL app and push the boundaries of modern software design.
 - **Fun Fact:** I love to draw—though my sketches might not always do justice to my imagination! 🎨
 

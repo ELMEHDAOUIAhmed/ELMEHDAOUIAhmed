@@ -17,15 +17,13 @@
 
 I'm a passionate software engineer with a knack for building scalable, high-performance applications. My journey in tech spans mobile development, web engineering, and a deep fascination for IoT innovations. I'm always on the lookout for new challenges and learning opportunities.
 
-- **Currently Learning:** Go.
-- **2025 Goals:** Develop an mDL app and push the boundaries of modern software design.
+- **Currently Learning:** Go
+- **2025 Goals:** Develop an mDL app and push the boundaries of modern software design
 - **Fun Fact:** I love to draw—though my sketches might not always do justice to my imagination! 🎨
 
 ---
 
 ## 🧰 Languages and Tools
-
-Over the years, I've become proficient with a variety of languages and tools. Here are some of my favorites:
 
 <p align="left">
   <img alt="Go" width="36px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" style="padding-right:10px;" />
@@ -33,15 +31,23 @@ Over the years, I've become proficient with a variety of languages and tools. He
   <img alt="Docker" width="36px" src="https://www.svgrepo.com/show/349342/docker.svg" style="padding-right:10px;" />
   <img alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
   <img alt="Oracle" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img alt="Bash" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" style="padding-right:10px;" />
+  <img alt="Bash" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" style="padding-right:10px;" />
   <img alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-  <img alt="PHP" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" style="padding-top:50px;" />
+  <img alt="PHP" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" style="padding-right:10px;" />
   <img alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
   <img alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
   <img alt="Firebase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-  <img alt="Linux" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/512px-Icons8_flat_linux.svg.png?20170610200026" style="padding-right:10px;" />
+  <img alt="Linux" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/512px-Icons8_flat_linux.svg.png" style="padding-right:10px;" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ELMEHDAOUIAhmed&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ELMEHDAOUIAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="170" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com/?user=ELMEHDAOUIAhmed&theme=dark&card_height=170" height="170" alt="streak graph" />
+</div>
 
 ---
 
@@ -53,7 +59,7 @@ The intersection of IoT and mobile technology drives my creativity. I'm continuo
 
 ## Let's Connect!
 
-I’m always open to exciting opportunities, collaborations, and fresh ideas. Feel free to connect with me on LinkedIn or check out my projects here on GitHub.
+I’m always open to exciting opportunities, collaborations, and fresh ideas. Feel free to connect with me on LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-elmehdaoui-234182278/)
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Ahmed Zine El Abdine ELMEHDAOUI (AhmedZin) 👋</h1>
+  <h1>Hi, I'm ELMEHDAOUI Ahmed zine el abidine aka (AhmedZin) 👋</h1>
   <p><strong>Software Engineer | Mobile & Web Developer | IoT Projects</strong></p>
   <a href="https://www.linkedin.com/in/ahmed-elmehdaoui-234182278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">

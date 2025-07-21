@@ -44,7 +44,7 @@ I build mobile and web applications, with an interest in connected systems and I
   <img src="https://github-readme-stats.vercel.app/api?username=ELMEHDAOUIAhmed&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="170" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ELMEHDAOUIAhmed&layout=compact&card_width=320&langs_count=6&theme=graywhite" height="170" />
   <!-- <img src="https://streak-stats.demolab.com/?user=ELMEHDAOUIAhmed&theme=graywhite&card_height=170" height="170" /> -->
-  <img src="https://streak-stats.demolab.com?user=ELMEHDAOUIAhmed&border_radius=4.9" alt="GitHub Streak" />
+  <img src= "https://streak-stats.demolab.com?user=ELMEHDAOUIAhmed&border_radius=4.9" />
 </div>
 
 ---
